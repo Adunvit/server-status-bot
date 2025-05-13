@@ -1,10 +1,9 @@
 {
     "bot": {
-        "token": "DISCORD_TOKEN",
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "PixelmonFlamacy Servers",
+                "name": "Pixelmon",
                 "type": "WATCHING"
             }]
         }
@@ -15,11 +14,12 @@
             "ip": "26.18.48.115",
             "port": 25565,
             "channelId": "1371950649675092151",
-            "updateInterval": 60000,
+            "messageId": "1361782035923992848",
+            "updateInterval": 30000,
             "display": {
-                "type": "chart",
+                "type": "banner",
                 "banner": {
-                    "url": "https://github.com/BLKOFFICIAL.png",
+                    "url": "https://cdn.discordapp.com/attachments/1361027416272797959/1361766298492866701/standard.gif?ex=67fff331&is=67fea1b1&hm=a49eee30b71b4252a57c3ac1c19f4d60651ca1959d0e8cde39cbc8f55bfc65fd&",
                     "enabled": true
                 },
                 "chart": {
